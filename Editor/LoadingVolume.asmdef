@@ -1,0 +1,17 @@
+{
+    "name": "LoadingVolumeEditor",
+    "references": [
+        "GUID:3ab4b3a81b558a84ea6bd6324b61a84b"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
